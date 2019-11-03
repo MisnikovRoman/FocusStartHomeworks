@@ -9,6 +9,6 @@
 struct Calculator
 {
     func calculate() -> Int {
-        return 0
+        return 1
     }
 }
